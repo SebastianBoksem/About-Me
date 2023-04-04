@@ -1,2 +1,2 @@
 I am a Fourth year Economics Major.
-I am most excited to learn about the functioning of Git and Github, and how I can smoothly connect it between RStudio, while also improving my previous code.
+I am most excited to learn about the functioning of Git and Github, and how I can smoothly connect it between RStudio, while also improving my old code.
